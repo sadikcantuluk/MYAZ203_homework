@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\obj\Debug\H2-NesneLAB.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\obj\Debug\H2-NesneLAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\obj\Debug\H2-NesneLAB.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\bin\Debug\H2-NesneLAB.exe.config
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\bin\Debug\H2-NesneLAB.exe
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\bin\Debug\H2-NesneLAB.pdb
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\obj\Debug\H2-NesneLAB.exe
+C:\Users\MSI\source\repos\H2-NesneLAB\H2-NesneLAB\obj\Debug\H2-NesneLAB.pdb
