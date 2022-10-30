@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\H5-hw\H5-hw\bin\Debug\H5-hw.exe.config
+C:\Users\MSI\source\repos\H5-hw\H5-hw\bin\Debug\H5-hw.exe
+C:\Users\MSI\source\repos\H5-hw\H5-hw\bin\Debug\H5-hw.pdb
+C:\Users\MSI\source\repos\H5-hw\H5-hw\obj\Debug\H5-hw.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\H5-hw\H5-hw\obj\Debug\H5-hw.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\H5-hw\H5-hw\obj\Debug\H5-hw.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\H5-hw\H5-hw\obj\Debug\H5-hw.exe
+C:\Users\MSI\source\repos\H5-hw\H5-hw\obj\Debug\H5-hw.pdb
